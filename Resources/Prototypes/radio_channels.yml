@@ -123,3 +123,12 @@
   keycode: "/"
   frequency: 1995
   color: "#9900ff"
+
+- type: radioChannel
+  id: ADFTalon
+  name: chat-radio-talon
+  keycode: "`"
+  frequency: 2004
+  color: "#FFA500"
+  # Long range because Avali Nexus tech
+  longRange: true
