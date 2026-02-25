@@ -49,8 +49,8 @@
 	{"name": "a_label"},
 	{"name": "b_label"},
 	{"name": "c_label"},
-      {"name": "crypt-interdyne"},
-	  {"name": "crypt_avali"},
+    {"name": "crypt-interdyne"},
+	{"name": "crypt_avali"},
 	{"name": "crypt_avaliblue"}
 	  
   ]
